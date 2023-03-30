@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Learning Android</string>
+    <string name="author">Aditya Kesuma</string>
+    <string name="app1">Aplikasi Simple Counter</string>
+</resources>
